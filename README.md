@@ -7,3 +7,5 @@ In this repo I am uploading my solutions for Leetcode POTD.
 2. [June Month](https://github.com/Amber-Mishra-2003/Leetcode-POTD/tree/main/2.%20June%20Month)
 
 3. [July Month](https://github.com/Amber-Mishra-2003/Leetcode-POTD/tree/main/3.%20July%20Month)
+
+4. [August Month](https://github.com/Amber-Mishra-2003/Leetcode-POTD/tree/main/4.%20August%20Month)
